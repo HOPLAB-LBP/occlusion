@@ -1,4 +1,4 @@
-This repo was fored from https://github.com/TimManiquet/occlusion
+This repo was forked from https://github.com/TimManiquet/occlusion
 
 # Occlusion of Images
 This repository contains three Python scripts to apply occlusion to a set of images in different ways. The three ways of occluding images are: by adding **blobs** on top of images, by adding a **partial viewing** mask with apertures on top of the images, or by **deleting** parts of the images. Each of these manipulations, occludes objects in the images such that only a _certain proportion_ of them will remain visible.
