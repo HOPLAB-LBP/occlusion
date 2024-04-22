@@ -8,7 +8,7 @@ This repository contains three Python scripts to apply occlusion to a set of ima
 
 Use this package by cloning it (see below) or installing it. To install this package using pip, first ensure that you have Git installed on your system. Then, create a new virtual environment and activate it. Finally, run the following command:
 
-```pip install git+https://github.com/TimManiquet/occlusion.git@v0.1```
+```pip install git+https://github.com/HOPLAB-LBP/occlusion.git@v0.1```
 
 ## Input images
 To ensure that the occluded  proportion is calculated correctly, make sure the input images contain an transparent mask (alpha channel) where the object is delineated from the background. These images should be 4-channel, grayscale images. Example of such images can be found in the `input images` folder.
